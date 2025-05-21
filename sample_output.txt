@@ -1,0 +1,107 @@
+========= Online Banking System =========
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Display Account
+6. Exit
+Enter your choice: 1
+Enter Name: Anup
+Enter New Account Number: 101
+Account Created!
+
+========= Online Banking System =========
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Display Account
+6. Exit
+Enter your choice: 1
+Enter Name: Ravi
+Enter New Account Number: 102
+Account Created!
+
+========= Online Banking System =========
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Display Account
+6. Exit
+Enter your choice: 2
+Enter Account Number: 101
+Enter Amount to Deposit: 5000
+₹5000 deposited. New Balance: ₹5000
+
+========= Online Banking System =========
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Display Account
+6. Exit
+Enter your choice: 3
+Enter Account Number: 101
+Enter Amount to Withdraw: 1000
+₹1000 withdrawn. New Balance: ₹4000
+
+========= Online Banking System =========
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Display Account
+6. Exit
+Enter your choice: 4
+Enter Your Account Number: 101
+Enter Receiver Account Number: 102
+Enter Amount to Transfer: 1500
+₹1500 transferred to Account 102
+
+========= Online Banking System =========
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Display Account
+6. Exit
+Enter your choice: 5
+Enter Account Number: 101
+Account Holder: Anup
+Account Number: 101
+Balance: ₹2500
+
+========= Online Banking System =========
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Display Account
+6. Exit
+Enter your choice: 6
+Thank you for banking with us.
+
+
+
+
+========= Online Banking System =========
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Display Account
+6. Exit
+Enter your choice: 1
+Enter Name: Anup Kumar Jha
+Enter New Account Number: 76324876
+Account Created!
+
+========= Online Banking System =========
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Display Account
+6. Exit
+Enter your choice:
